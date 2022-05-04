@@ -2,8 +2,11 @@
 thdmerge from Donald A. Graft
 
 
-original url:
+original source url:
 http://rationalqm.us/dgdemux/binaries/DGDemux_1.0.0.61.zip
+
+top-level website (with other multimedia tools):
+http://rationalqm.us/
 
 look for thdmerge inside main archive
 
